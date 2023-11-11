@@ -1,0 +1,98 @@
+#button button:hover{
+    background-color: white;
+    color: black;
+}
+#button button{
+    color: white;
+}
+
+#glint{
+  width: 100px;
+     height: 50px;
+       margin-left: 20px;
+
+      }
+.muzammil{
+  
+    background-image: url(images/backgroung\ pic.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+ /* @media screen and (min-width: 500px) {
+    body {
+      margin: 0px;
+      padding: 0px;
+    }
+  }  */
+#ab{
+ 
+     padding-left: 130px;
+     padding-top: 100px;
+}
+#cd{
+  padding-top: 20px;
+  padding-left: 130px;   
+}
+
+#button{
+  padding-top: 30px;
+  padding-left: 130px;     
+   padding-bottom: 20px;
+}
+button{
+  margin-left: 30px;
+}
+.hm{
+  width: 900px;
+  display: inline-block;
+}
+.hn{
+  width: 100px;
+  display: inline-block;
+}
+.hn i{
+  
+  padding-left: 450px;
+ 
+}
+#hn{
+  
+  font-size: 30px;
+  margin-left: 300px;
+}
+#pera{
+display: flex;
+justify-content: center;
+}
+#ay div{
+  
+  border-left: 1px solid white;
+  width: auto;
+  height: auto;
+}
+#ay{
+  gap: 30px;
+}
+#es{
+  border-right: 1px solid white;
+  
+}
+
+#jan i{
+  margin: 20px;
+  
+}
+#jan{
+  margin-top: 50px;
+  text-align: center;
+   border-bottom: 1px solid black;
+}
+.khna{
+  background-image: url(images/background\ image.jpg);
+  background-repeat: no-repeat;
+   background-size: cover;
+
+}
